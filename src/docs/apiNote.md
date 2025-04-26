@@ -1,6 +1,0 @@
-- use the helper function for each sevices and make them optimized.
-- After that seperate the helper function with repositor and servies.
-- Look for the optimization of the controller and other.
-- use the interfaces in each seperate folder. 
-- integrate the desing patterns. 
-- Look for the other things like category and so on. 
