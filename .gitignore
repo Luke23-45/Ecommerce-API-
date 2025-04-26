@@ -1,4 +1,4 @@
 /node_modules
 .env
 *.bat
-/src/docs
+/src/docs/
